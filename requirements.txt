@@ -1,0 +1,27 @@
+# Core LangChain and LangGraph libraries
+langchain
+langgraph
+langchain-core
+langchain-community
+
+# LLM Provider (we'll use Google Gemini as a default, it's easy to start with)
+langchain-google-genai
+langchain-openai
+# To use the NVIDIA model from your sample, you would also run:
+# pip install langchain-nvidia-ai-endpoints
+
+# Web Search Tool
+tavily-python
+
+# PostgreSQL Database Connector
+psycopg2-binary
+
+# Environment variable management
+python-dotenv
+
+# Data manipulation and visualization
+pandas
+matplotlib
+seaborn
+streamlit
+plotly

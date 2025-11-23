@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.log
+Screenshots
+outputs
+Screenshots/
+outputs/
+corrections.py
+venv/
+*.sqlite3
