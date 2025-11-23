@@ -124,10 +124,6 @@ streamlit run app.py
 6. Open the dashboard at `http://localhost:8501`.
 
 
-## Contact
-
-Developed by Adarsh M S
-
 ---
 
 
