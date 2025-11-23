@@ -22,6 +22,9 @@ NexusCorpus is an autonomous Multi-Agent System (MAS) — a virtual team of AI s
 
 ## 👨‍💼 Agent Architecture
 
+![Agent Architecture](https://github.com/adarshms444/Real-Time-News-Sentiment-Analysis-and-Visualization/blob/main/architecture.png)
+
+
 Agent Name | Role | Functionality
 ---|---:|---
 Supervisor Agent | Project Manager | Orchestrates the workflow (LangGraph). Analyzes user intent and routes tasks to specialist agents.
