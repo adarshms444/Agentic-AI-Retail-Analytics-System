@@ -2,7 +2,7 @@
 
 An Agentic AI-Powered Intelligence Platform transforming static retail data into actionable, real-time conversations.
 
-## 🏢 About Nexus Corp
+## About Nexus Corp
 
 Nexus Corp Analytics is a premier retail showroom specializing in top-brand mobile phones, high-performance laptops, smart gadgets, and electronic appliances. Operating in a hyper-competitive consumer electronics market, Nexus Corp handles high-value transactions and rapidly changing consumer trends. This dashboard is the central intelligence hub for data-driven growth, delivering precise, real-time insights to optimize pricing, maximize margins, and evaluate regional sales performance instantly.
 
@@ -31,7 +31,7 @@ Visualization Agent | Graphic Designer | Generates interactive Plotly charts (Ba
 Summarizer Agent | Report Writer | Synthesizes internal data, external context, and visuals into a coherent narrative.
 Email Agent | Executive Assistant | Formats HTML emails and sends reports via SMTP, aware of conversation context and previous analyses.
 
-## ⭐ Key Features & Capabilities
+## Key Features & Capabilities
 
 - **Dynamic Data Interaction:** Natural language querying, live filtering (Year, Region, Category), and instant updates via Pandas logic.
 - **Hybrid Intelligence:** Combines internal DB metrics with live web context to explain trends and anomalies.
