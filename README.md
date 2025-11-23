@@ -4,7 +4,7 @@ An Agentic AI-Powered Intelligence Platform transforming static retail data into
 
 ## About Nexus Corp
 
-Nexus Corp Analytics is a premier retail showroom specializing in top-brand mobile phones, high-performance laptops, smart gadgets, and electronic appliances. Operating in a hyper-competitive consumer electronics market, Nexus Corp handles high-value transactions and rapidly changing consumer trends. This dashboard is the central intelligence hub for data-driven growth, delivering precise, real-time insights to optimize pricing, maximize margins, and evaluate regional sales performance instantly.
+Nexus Corp Analytics is a premier retail showroom specializing in top-brand mobile phones, high-performance laptops, smart gadgets, and electronic appliances. Operating in the hyper-competitive consumer electronics market, Nexus Corp deals with high-value transactions and rapidly changing consumer trends. To maintain its market leadership, the leadership requires precise, real-time insights to optimize pricing strategies, maximize profit margins, and understand regional sales performance instantly. This dashboard serves as the central intelligence hub for their data-driven growth.
 
 ## ⏳ Problem Statement
 
