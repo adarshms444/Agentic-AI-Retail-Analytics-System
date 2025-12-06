@@ -8,7 +8,7 @@ langchain-community
 langchain-google-genai
 langchain-openai
 # To use the NVIDIA model from your sample, you would also run:
-# pip install langchain-nvidia-ai-endpoints
+langchain_nvidia_ai_endpoints
 
 # Web Search Tool
 tavily-python
